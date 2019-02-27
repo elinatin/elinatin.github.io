@@ -1,0 +1,52 @@
+
+.body {
+	
+	width: 1000px;
+	font-size: 60px;
+	font-family: Goudy Old Style, Helvetica;
+	margin-bottom: 60px;
+	position: center;
+	margin: auto;
+}
+
+.image {
+	
+	width: 400px;
+	height: auto;
+	margin: 5px 5px 5px 5px;	
+}
+
+#home {
+	
+	background-color: #e5c3c6;
+}
+
+#aboutme {
+	
+	background-color: #bcd2d0;	
+}
+
+#experience {
+	
+	background-color: #D3D3D3;	
+}
+
+#contactme {
+	
+	background-color: #d5fdd5;	
+}
+
+.bar {
+	
+	display: inline;
+	padding: 11px;
+	border: 1.5px solid #000000;
+	border-top-right-radius: 15px;
+	border-radius: 6px 5px;
+	text-align: center;
+	border-top-left-radius: 15px;	
+}
+
+#bar {
+	
+	position: center;
